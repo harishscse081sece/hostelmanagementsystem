@@ -2,7 +2,7 @@
 
 A full-stack web application to manage hostel operations including mess menu, complaints, and user authentication.
 
-🔗 **Live Demo**: [Click Here](frontendhostelmanage-git-main-harish-ss-projects-85e28866.vercel.app)
+🔗 **Live Demo**: [Click Here](https://hostelmanagefrontend-git-main-harish-ss-projects-85e28866.vercel.app)
 
 ---
 
@@ -29,10 +29,10 @@ A full-stack web application to manage hostel operations including mess menu, co
 
 ## 🔑 Test Credentials
 
-| Role    | Email                | Phone      | Password   |
-|---------|----------------------|------------|------------|
-| Admin   | admin@hostel.com     | 7200999142 | admin123   |
-| Student | rahul@student.com    | 9876543210 | student123 |
+| Role    | Email             | Phone      | Password   |
+|---------|-------------------|------------|------------|
+| Admin   | admin@hostel.com  | 7200999142 | admin123   |
+| Student | rahul@student.com | 9876543210 | student123 |
 
 ---
 
@@ -57,15 +57,15 @@ A full-stack web application to manage hostel operations including mess menu, co
 
 ## 📌 API Endpoints
 
-| Method | Endpoint              | Description              |
-|--------|-----------------------|--------------------------|
-| POST   | /auth/admin           | Register user            |
-| POST   | /auth/student         | Login user               |
-| GET    | /menu                 | Get weekly mess menu     |
-| PUT    | /menu/:day            | Update menu (admin)      |
-| GET    | /complaints           | Get complaints           |
-| POST   | /complaints           | Submit complaint         |
-| PUT    | /complaints/:id       | Update complaint status  |
+| Method | Endpoint        | Description             |
+|--------|-----------------|-------------------------|
+| POST   | /auth/admin     | Register user           |
+| POST   | /auth/student   | Login user              |
+| GET    | /menu           | Get weekly mess menu    |
+| PUT    | /menu/:day      | Update menu (admin)     |
+| GET    | /complaints     | Get complaints          |
+| POST   | /complaints     | Submit complaint        |
+| PUT    | /complaints/:id | Update complaint status |
 
 ---
 
