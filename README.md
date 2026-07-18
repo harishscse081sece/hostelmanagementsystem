@@ -2,7 +2,7 @@
 
 A full-stack web application to manage hostel operations including mess menu, complaints, and user authentication.
 
-🔗 **Live Demo**: [Click Here](https://hostelmanagefrontend-git-main-harish-ss-projects-85e28866.vercel.app)
+🔗 **Live Demo**: [Click Here : https://frontendhostelmanage.vercel.app/ }
 
 ---
 
